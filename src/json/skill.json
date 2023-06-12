@@ -1,0 +1,21 @@
+[
+  {
+    "title": "FROEND-END",
+    "items": [
+      "React / Redux",
+      "JavaScript (ES6+)",
+      "CSS / SCSS",
+      "jQuery / Bootstrap",
+      "REST API"
+    ]
+  },
+  {
+    "title": "BACK-END",
+    "items": [
+      "Node.js / Express.js / JWT",
+      "Java / Spring Boot",
+      "C / C#",
+      "MySQL/ MongoDB"
+    ]
+  }
+]

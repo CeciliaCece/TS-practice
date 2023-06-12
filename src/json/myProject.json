@@ -1,0 +1,26 @@
+[
+  {
+    "title": "小浣熊日本代購",
+    "links": ["https://raccoonjpdaikou.cyclic.app/"],
+    "description": "因應代購行業的特殊性與使用者需求，該網頁具有後台可以管理公告、留言、用戶密碼，前台可以查詢訂單、留言、並為帳號新增密碼。\n訂單資料則接入用戶原先使用的Google試算表做管理。",
+    "lists": [
+      "使用React框架建構網頁",
+      "使用SCSS管理樣式",
+      "完整RWD網頁",
+      "使用Node.js及Express.js撰寫API",
+      "使用MongoDB資料庫，並通過Ｍongoose進行資料模型定義及操作",
+      "其他：Bootstrap、Axios"
+    ]
+  },
+  {
+    "title": "Todo List",
+    "links": ["https://github.com/CeciliaCece/todoList"],
+    "description": "練習用線上待辦事項，可以註冊帳號，新增、編輯、刪除待辦事項，API由線上課程平台提供。",
+    "lists": [
+      "HTML、CSS、JavaScript",
+      "完整RWD網頁",
+      "使用Webpack進行打包",
+      "其他：SCSS、Bootstrap、Axios"
+    ]
+  }
+]
